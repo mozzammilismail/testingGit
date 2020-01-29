@@ -1,0 +1,13 @@
+git add filename enter
+it will upload the file to reository
+
+
+git status  enter
+check teh status of the repository
+
+
+git commit -m "hi this is 2nd day in git" filname enter
+
+
+git push -u origin master enter
+
